@@ -1,4 +1,4 @@
-## EMG-based hand gesture recognition (HGR) for 112-1 undergraduate project
+## EMG-based hand gesture recognition (HGR) undergraduate project
 
 **Step 1**: Download the NinaPro DB2 from the website
 ```
@@ -19,6 +19,6 @@ or you can use the `run.sh` or `run_{model_type}.sh` script for detail argument 
 ```
 ./run.sh
 ```
-**Step 4**: Start your experiments! \
+**Step 4**: Start experiments! \
 You can add new functions (e.g., filter, normalization, feature extraction, ...) and new model (e.g., MV-CNN, TraHGR, LST-EMG-NET, ...), and also change the argument setup to find the best hyperparameter.
 
