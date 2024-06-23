@@ -3,7 +3,8 @@
 **Step 1**: Download the NinaPro DB2 from the website
 
 https://drive.google.com/drive/folders/1fRAQtZqMaVGaBJxBUiCQyEI7Vj_OSdXX?usp=sharing
-download whole DataSet DB2(most popular dataset in the field)
+
+Download whole DataSet DB2 (most popular dataset in the field)
 
 **Step 2**: Start experiments! 
 ```
