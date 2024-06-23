@@ -35,4 +35,6 @@ or you can use the `run.sh` or `run_{model_type}.sh` script for detail argument 
 You can add new functions (e.g., filter, normalization, feature extraction, ...) and new model (e.g., MV-CNN, TraHGR, LST-EMG-NET, ...), and also change the argument setup to find the best hyperparameter.
 
 **Setp 5**: Some sample result
-  
+see the link below
+
+https://drive.google.com/drive/folders/1BcIteXrBYszh4Vfvo5Xx5R3qZomUIv2G?usp=sharing
